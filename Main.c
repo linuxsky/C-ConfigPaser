@@ -1,7 +1,7 @@
 ﻿#define _CRT_SECURE_NO_DEPRECATE
 #include <stdio.h>
 #include <Windows.h>
-
+//hello
 #include "ConfigPaser.h"
 extern int _skipAnnotationAndSpaces(FILE **fpp);
 int main(){
